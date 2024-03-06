@@ -4,9 +4,9 @@ New sequencing technologies, or NGS, have opened the door to massive sequencing 
 
 
 # Course objectives:  
--To understand the advantages and disadvantages of Nanopore sequencing.
--To learn about de novo genome assembly.
--To gain practical experience with de novo genome assembly. 
+-To understand the advantages and disadvantages of Nanopore sequencing. 
+-To learn about de novo genome assembly. 
+-To gain practical experience with de novo genome assembly.  
 
 # Program:
 session_0: Before the start of the course, students should have installed the necessary software for the course, such as:  
