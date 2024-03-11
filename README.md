@@ -24,6 +24,7 @@ session_5: Quality of the assemblies with `Quast` and `BUSCO`.
 
 **Download data**.  
 -Course materials will be made available on the day the course begins.
+-Day 1: https://filesender.renater.fr/?s=download&token=04800581-a043-45f7-8692-9d82275d18f4  
 
 
 Romain Guyot, IRD.  
