@@ -20,14 +20,14 @@ session_1: Introduction to Oxford Nanopore; Getting to know the `Fast5` format; 
 session_2: Quality control of fastq reads, Mapping reads against a reference genome with `Minimap2`.  
 session_3: Genome assembly with `Minimap2` and `Miniasm`, `Flye` and `Shasta`.  
 session_4: Polishing of the assemblies with `Racon` and `Medaka`.  
-session_5: Quality of the assemblies with `Quast` and `BUSCO`.  
+session_5: Quality of the assemblies with `Quast` and `BUSCO`.   
 
 **Download data**.  
--Course materials will be made available on the day the course begins.
+-Course materials will be made available on the day the course begins.  
 
 
 Romain Guyot, IRD.  
-[GenomeCoffea](https://www.genomecoffea.org)
+[GenomeCoffea](https://www.genomecoffea.org)  
 
 
 
