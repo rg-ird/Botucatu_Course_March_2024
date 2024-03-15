@@ -1,4 +1,4 @@
-# Botucatu_2024
+# Botucatu 2024 Nanopore Course
 
 New sequencing technologies, or NGS, have opened the door to massive sequencing of living organisms, offering the capability to sequence complex and contiguous genomes using very long reads. Among these technologies, nanopore sequencing stands out for its very low cost and its ever-increasing accuracy. A wide range of algorithms has been developed to analyze nanopore data. In this course, we will learn the methods and workflows for analyzing raw reads and achieving genome assembly. We will discover how to obtain nucleotide sequences from electrical signals, explore the most commonly used assembly paradigm for long fragments, test and compare several state-of-the-art assemblers, and finally evaluate the quality of the resulting assembly, with and without a reference genome.
 
